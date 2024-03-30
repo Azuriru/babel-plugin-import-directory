@@ -1,0 +1,24 @@
+{
+	"name": "babel-plugin-bynport-directory",
+	"version": "1.0.0",
+	"description": "Babel plugin to resolve directory",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Azuriru/babel-plugin-import-directory.git"
+	},
+	"keywords": [
+		"babel",
+		"import",
+		"directory"
+	],
+	"author": "JakMobius",
+	"license": "WTFPL",
+	"bugs": {
+		"url": "https://github.com/Azuriru/babel-plugin-import-directory/issues"
+	},
+	"homepage": "https://github.com/Azuriru/babel-plugin-import-directory#readme"
+}
